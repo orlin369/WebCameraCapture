@@ -1,0 +1,5 @@
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\WebCamCapture\bin\Debug\WebCamCapture.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\WebCamCapture\bin\Debug\WebCamCapture.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\WebCamCapture\obj\Debug\WebCamCapture.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\WebCamCapture\obj\Debug\WebCamCapture.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\WebCamCapture\obj\Debug\WebCamCapture.csprojResolveAssemblyReference.cache

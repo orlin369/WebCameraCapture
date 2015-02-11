@@ -1,0 +1,27 @@
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\Interop.WIA.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.csproj.ResolveComReference.cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\bin\Debug\TestApp.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\bin\Debug\TestApp.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\Code Snippets\Visual C#\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\TestApp.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\TestApp.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\DiO_CS_SterescopicGEnerator.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\Emgu.CV.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\Emgu.Util.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\DiO_CS_SterescopicGEnerator.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\Emgu.CV.xml
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\Emgu.Util.xml
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\WebCamControll.MainForm.resources
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\obj\Debug\WebCamControll.Properties.Resources.resources
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\WebCamCapture.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\DiO_CS_WEBCamCap\TestApp\bin\Debug\WebCamCapture.pdb
