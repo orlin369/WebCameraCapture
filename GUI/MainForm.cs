@@ -21,11 +21,6 @@ namespace GUI
         /// </summary>
         private WebCamCapture webCamCapture;
 
-        /// <summary>
-        /// Shifting value.
-        /// </summary>
-        private int shiftValue = 8;
-
         #endregion
 
         #region Constructor
@@ -120,15 +115,6 @@ namespace GUI
 
             // Resume the video capture from the stop.
             this.webCamCapture.Start(this.webCamCapture.FrameNumber);
-        }
-
-        #endregion
-
-        #region Shift value changer
-
-        private void numShiftValue_ValueChanged(object sender, EventArgs e)
-        {
-            this.shiftValue = Convert.ToInt32(this.numShiftValue.Value);
         }
 
         #endregion

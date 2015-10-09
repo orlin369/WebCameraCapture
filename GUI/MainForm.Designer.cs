@@ -33,11 +33,8 @@
             this.btnStop = new System.Windows.Forms.Button();
             this.btnContinues = new System.Windows.Forms.Button();
             this.numCaptureTime = new System.Windows.Forms.NumericUpDown();
-            this.numShiftValue = new System.Windows.Forms.NumericUpDown();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbVideoView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numCaptureTime)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numShiftValue)).BeginInit();
             this.SuspendLayout();
             // 
             // pbVideoView
@@ -91,34 +88,11 @@
             0,
             0});
             // 
-            // numShiftValue
-            // 
-            this.numShiftValue.Location = new System.Drawing.Point(336, 501);
-            this.numShiftValue.Name = "numShiftValue";
-            this.numShiftValue.Size = new System.Drawing.Size(75, 20);
-            this.numShiftValue.TabIndex = 5;
-            this.numShiftValue.Value = new decimal(new int[] {
-            8,
-            0,
-            0,
-            0});
-            this.numShiftValue.ValueChanged += new System.EventHandler(this.numShiftValue_ValueChanged);
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(417, 500);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 6;
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(661, 528);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.numShiftValue);
             this.Controls.Add(this.numCaptureTime);
             this.Controls.Add(this.btnContinues);
             this.Controls.Add(this.btnStop);
@@ -132,7 +106,6 @@
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbVideoView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numCaptureTime)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numShiftValue)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -144,8 +117,6 @@
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.Button btnContinues;
         private System.Windows.Forms.NumericUpDown numCaptureTime;
-        private System.Windows.Forms.NumericUpDown numShiftValue;
-        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
 
